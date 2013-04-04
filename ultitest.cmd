@@ -1,0 +1,34 @@
+@ECHO OFF
+mkdir "SUPER TOP PRIVATE"
+cd "SUPER TOP PRIVATE"
+mkdir "THIS IS PRIVATE STOP"
+cd "THIS IS PRIVATE STOP"
+mkdir "WHAT ARE YOU DOING"
+cd "WHAT ARE YOU DOING"
+mkdir "WHAT STOP PLEASE"
+cd "WHAT STOP PLEASE"
+mkdir "I DID NOT GIVE YOU PERMISSION"
+cd "I DID NOT GIVE YOU PERMISSION"
+mkdir "PRIVATE GET THE HELL OUT"
+cd "PRIVATE GET THE HELL OUT"
+mkdir "WHY ARE YOU DOING THIS"
+cd "WHY ARE YOU DOING THIS"
+mkdir "YOU'RE HURTING ME STOP"
+cd "YOU'RE HURTING ME STOP"
+mkdir "HOW HAVE I WRONGED YOU"
+cd "HOW HAVE I WRONGED YOU"
+mkdir "I WILL PUNCH YOU IN THE FACE"
+cd "I WILL PUNCH YOU IN THE FACE"
+mkdir "PLEASE STOP IT'S PRIVATE"
+cd "PLEASE STOP IT'S PRIVATE"
+mkdir "NO PLEASE"
+cd "NO PLEASE"
+mkdir "I HATE YOU"
+cd "I HATE YOU"
+mkdir "PORN"
+cd "PORN"
+echo [InternetShortcut] > hotstuff.url
+echo URL=http://www.youtube.com/watch?v=dQw4w9WgXcQ >> hotstuff.url
+echo IDList= >> hotstuff.url
+echo HotKey=0 >> hotstuff.url
+exit
